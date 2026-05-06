@@ -20,9 +20,9 @@ Mathematical convention: ℕ = {1, 2, 3, …} (Bourbaki).
 ## Result
 
 <div align="center">
-  <img src="result/00.png" width="75%" alt="Maze result"/>
+  <img src="result/00.png" width="95%" alt="Maze result"/>
   <br><br>
-  <img src="result/01.png" width="75%" alt="Maze result"/>
+  <img src="result/01.png" width="95%" alt="Maze result"/>
 </div>
 
 ## Requirements
