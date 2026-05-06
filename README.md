@@ -19,7 +19,8 @@ Mathematical convention: ℕ = {1, 2, 3, …} (Bourbaki).
 
 ## Requirements
 
-Java JDK 8+
+- Java JDK 8+
+- Console or IDE with UTF-8 support
 
 ## Usage
 
